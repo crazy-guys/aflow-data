@@ -1,0 +1,60 @@
+[
+  {
+    "id": 20,
+    "title": "NAVER<br/>Partner Square<br/>Gwangju",
+    "subtitle": "2018 NAVER",
+    "img_color": "#979484"
+  },
+  {
+    "id": 18,
+    "title": "FISH ISLAND<br/>tvcf",
+    "subtitle": "2018 NHN Pixelcube",
+    "img_color": "#5c8eac"
+  },
+  {
+    "id": 17,
+    "title": "NIKE<br/>Membership<br/>Care Program",
+    "subtitle": "2018 NIKE KOREA",
+    "img_color": "#896bae"
+  }, 
+  {
+    "id": 12,
+    "title": "KFA <br/>Official Website <br/>Renewal",
+    "subtitle": "2018 KFA"
+  },
+  {
+    "id": 10,
+    "title": "CJ Hello <br/>UHD Red <br/>Branding",
+    "subtitle": "2017 CJ HELLO"
+  },
+  {
+    "id": 9,
+    "title": "CJ Hello <br/>Brochure Design",
+    "subtitle": "2017 CJ HELLO",
+    "img_color": "#d1d4e7"
+  },
+  {
+    "id": 8,
+    "title": "SMTOWN <br/>@ Coexartium <br/>Interactive Media",
+    "subtitle": "2017 SM Entertainment",
+    "img_color": "#f8b2bc"
+  },
+  {
+    "id": 6,
+    "title": "NCSOFT<br/>2017~2018 Yearly<br/>Maintenance",
+    "subtitle": "2017 NCSoft",
+    "img_color": "#4f312c"
+  },
+  {
+    "id": 2,
+    "title": "Google <br/>Impact Challenge<br/>Korea Campaign",
+    "subtitle": "2016 Google Korea",
+    "img_color": "#707797"
+  },
+  {
+    "id": 1,
+    "title": "Parliament<br/>Gallery Alive AR",
+    "subtitle": "2016 Google Korea",
+    "img_color": "#836c41"
+  }
+]

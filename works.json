@@ -1,12 +1,5 @@
 [
   {
-    "id": 22,
-    "title": "SMTOWN<br/>@ Coexartium<br/>Battle Ground",
-    "subtitle": "2019 SM Entertainment",
-    "img_color": "#979484",
-    "is_updated": false
-  },
-  {
     "id": 21,
     "title": "THE CJ CUP <br/>@ Nine Bridges 2018",
     "subtitle": "2018 CJ",
@@ -58,13 +51,6 @@
   {
     "id": 14,
     "title": "JAJU 2018 <br/>Yearly SNS <br/>Maintenance",
-    "subtitle": "2018 Shinsegae International",
-    "img_color": "#707797",
-    "is_updated": false
-  },
-  {
-    "id": 13,
-    "title": "JAJU <br/>Promotion Film",
     "subtitle": "2018 Shinsegae International",
     "img_color": "#707797",
     "is_updated": false
@@ -127,13 +113,6 @@
     "id": 4,
     "title": "SAIT <br/>Exhibition Hall <br/>Contents Renewal",
     "subtitle": "2017 Samsung",
-    "img_color": "#707797",
-    "is_updated": false
-  },
-  {
-    "id": 3,
-    "title": "THE CJ CUP <br/>@ Nine Bridges <br/>2017",
-    "subtitle": "2017 CJ",
     "img_color": "#707797",
     "is_updated": false
   },
